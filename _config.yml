@@ -6,8 +6,11 @@ google_analytics:
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  github_url: https://doi.org/10.5281/zenodo.8056090
-  googlescholar_url: https://arxiv.org/abs/2307.06860
+  email: julloa@humboldt.org.co
+  github_url: https://github.com/juansulloa
+  linkedin_url: https://co.linkedin.com/in/jseb-ulloa
+  orcid_url: https://orcid.org/0000-0001-5666-6942
+  googlescholar_url: https://scholar.google.com/citations?user=xdHmzxcAAAAJ&hl=en&oi=ao
   owner_name: Juan Sebastián Ulloa
   owner_url: https://github.com/orgs/soundclim/people
   repository_name: jsulloa

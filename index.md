@@ -4,12 +4,12 @@ title: Juan Sebastián Ulloa
 ---
 
 # About me
-I am currently a Scientific Researcher at the Center for Socio-Ecological Studies and Global Change of the Humboldt Institute in Colombia. With a Master's degree in Electronics Engineering and a Doctorate degree in Life Sciences, I am dedicated to develop smart tools for biodiversity conservation in tropical ecosystems. My expertise spans signal processing, machine learning, acoustics, and ecology. Over the past decade, my research has focused on developing innovative tools for quantitatively analyzing ecosystems through the lens of acoustics. This work involves proactive engagement with ecologists, sociologists and local communities to ensure the conservation of biodiversity while accommodating the developmental needs of complex socio-ecological systems.
+I am currently a Scientific Researcher at the Center for Socio-Ecological Studies and Global Change of the Humboldt Institute in Colombia. With a Master's degree in Electronics Engineering and a Doctorate degree in Life Sciences, I am dedicated to develop smart tools for biodiversity conservation, particularly in tropical ecosystems. My expertise spans signal processing, machine learning, acoustics, and ecology. Over the past decade, my research has focused on developing innovative tools for quantitatively analyzing ecosystems through the lens of acoustics. This work involves proactive engagement with ecologists, sociologists and local communities to ensure the conservation of biodiversity while accommodating the developmental needs of socio-ecological systems.
 
 # Skills
 Programming Languages: Python, R, MatLab
 Data analysis and visualization: Pandas, NumPy, Matplotlib, R, ggplot2
-Machine Learning: Scikit-learn, Pytorch, Keras
+Machine Learning: scikit-learn, Pytorch, Keras
 Cloud Computing: Microsoft Azure
 Language proficiency: Fluent in English, Spanish, and French
 
