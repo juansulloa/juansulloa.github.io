@@ -20,11 +20,22 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
-        <a href="{{ site.github.linkedin_url }}" class="btn">LinkedIn</a>
-        <a href="{{ site.github.googlescholar_url }}" class="btn">Google Scholar</a>
-        <a href="{{ site.github.github_url }}" style="color: #ffffffdb; font-size: 24px;" aria-label="GitHub"> <i class="fab fa-github"></i> </a>  
-        <a href="{{ site.github.orcid_url }}" class="btn">ORCID</a>
-        <a href="mailto:julloa@humboldt.org.co" class="btn">e-mail</a>
+        <!-- Linked In -->
+        <a href="{{ site.github.linkedin_url }}" style="color: #ffffffdb; font-size: 24px;" aria-label="LinkedIn"> 
+          <i class="fab fa-linkedin"></i> 
+        </a>  
+        <!-- Google Scholar -->
+        <a href="{{ site.github.googlescholar_url }}" style="color: #ffffffdb; font-size: 24px;" aria-label="Google Scholar"> 
+          <i class="fas fa-graduation-cap"></i> 
+        </a>  
+        <!-- GitHub -->
+        <a href="{{ site.github.github_url }}" style="color: #ffffffdb; font-size: 24px;" aria-label="GitHub"> 
+          <i class="fab fa-github"></i> 
+        </a>          
+        <!-- Mail -->
+        <a href="mailto:julloa@humboldt.org.co" style="color: #ffffffdb; font-size: 24px;" aria-label="e-mail"> 
+          <i class="fas fa-envelope"></i> 
+        </a>  
       {% endif %}
     </header>
 
