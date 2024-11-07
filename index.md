@@ -8,11 +8,11 @@ I am currently a Scientific Researcher at the **Center for Socio-Ecological Stud
 
 # Skills
 Skilled in coordinating projects at the intersection of artificial intelligence and biodiversity monitoring, with a focus on implementing passive acoustic monitoring systems to analyze ecological soundscapes and design ecological indicators using machine learning models.
-* Programming Languages: Python, R, MatLab
-* Data analysis and visualization: Pandas, NumPy, Matplotlib, R, ggplot2
-* Machine Learning: scikit-learn, Pytorch, Keras
-* Cloud Computing: Microsoft Azure
-* Language proficiency: Fluent in English, Spanish, and French
+* **Programming Languages**: Python, R, MatLab
+* **Data analysis and visualization**: Pandas, NumPy, Matplotlib, R, ggplot2
+* **Machine Learning**: scikit-learn, Pytorch, Keras
+* **Cloud Computing**: Microsoft Azure
+* **Language proficiency**: Fluent in English, Spanish, and French
 
 # Research
 ## Publications
