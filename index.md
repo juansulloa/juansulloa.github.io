@@ -6,14 +6,6 @@ title: Juan Sebastián Ulloa, PhD
 # About me
 I am currently a Scientific Researcher at the **Center for Socio-Ecological Studies and Global Change** of the **[Humboldt Institute](https://www.humboldt.org.co/)** in Colombia. With a Master's degree in Electronics Engineering and a Doctorate degree in Life Sciences, I am dedicated to develop smart tools for biodiversity conservation, particularly in tropical ecosystems. My expertise spans signal processing, machine learning, acoustics, and ecology. Over the past decade, my research has focused on developing innovative tools for quantitatively analyzing ecosystems through the lens of acoustics. This work involves proactive engagement with ecologists, sociologists and local communities to ensure the conservation of biodiversity while accommodating the developmental needs of socio-ecological systems.
 
-# Skills
-Skilled in coordinating projects at the intersection of artificial intelligence and biodiversity monitoring, with a focus on implementing passive acoustic monitoring systems to analyze ecological soundscapes and design ecological indicators using machine learning models.
-* **Programming Languages**: Python, R, MatLab
-* **Data analysis and visualization**: Pandas, NumPy, Matplotlib, R, ggplot2
-* **Machine Learning**: scikit-learn, Pytorch, Keras
-* **Cloud Computing**: Microsoft Azure
-* **Language proficiency**: Fluent in English, Spanish, and French
-
 # Research
 ## Publications
 For an updated list of publications, please check my [Google Scholar](https://scholar.google.com/citations?user=xdHmzxcAAAAJ&hl=en&oi=ao) or [ORCID](https://orcid.org/0000-0001-5666-6942) profiles.
@@ -28,3 +20,11 @@ For an updated list of publications, please check my [Google Scholar](https://sc
 ## Artistic projects
 * **Crepusculario**: This artistic project fosters a deep reconnection with biodiversity through attentive listening, inviting participants to use sound to experience and remember our connection to the living world. By sharing the wonder of field recording, it highlights our integral role within nature’s fabric and our need to cherish and protect it. 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/6if6tzlPSLMkmmCLkAwJXH?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# Skills
+Skilled in coordinating projects at the intersection of artificial intelligence and biodiversity monitoring, with a focus on implementing passive acoustic monitoring systems to analyze ecological soundscapes and design ecological indicators using machine learning models.
+* **Programming Languages**: Python, R, MatLab
+* **Data analysis and visualization**: Pandas, NumPy, Matplotlib, R, ggplot2
+* **Machine Learning**: scikit-learn, Pytorch, Keras
+* **Cloud Computing**: Microsoft Azure
+* **Language proficiency**: Fluent in English, Spanish, and French
