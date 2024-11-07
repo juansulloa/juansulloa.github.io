@@ -656,8 +656,8 @@ th {
 }
 
 .profile-image {
-  width: 100px;           /* Adjust size as needed */
-  height: 100px;
+  width: 30px;           /* Adjust size as needed */
+  height: 30px;
   border-radius: 50%;     /* Make the image circular */
   object-fit: cover;
   float: left;            /* Float the image to the left */
