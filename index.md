@@ -4,13 +4,13 @@ title: Juan Sebastián Ulloa, PhD
 ---
 
 # About me
-I am currently a Scientific Researcher at the **Center for Socio-Ecological Studies and Global Change** of the **[Humboldt Institute](https://www.humboldt.org.co/)** in Colombia. With a Master's degree in Electronics Engineering and a Doctorate degree in Life Sciences, I am dedicated to develop smart tools for biodiversity conservation, particularly in tropical ecosystems. My expertise spans signal processing, machine learning, acoustics, and ecology. Over the past decade, my research has focused on developing innovative tools for quantitatively analyzing ecosystems through the lens of acoustics. This work involves proactive engagement with ecologists, sociologists and local communities to ensure the conservation of biodiversity while accommodating the developmental needs of socio-ecological systems.
+I am currently a Scientific Researcher at the **Center for Socio-Ecological Studies and Global Change** of the **[Humboldt Institute](https://www.humboldt.org.co/)**. With a Master's degree in Electronics Engineering and a Doctorate degree in Life Sciences, I am dedicated to develop smart tools for biodiversity conservation, particularly in tropical ecosystems. My expertise spans signal processing, machine learning, acoustics, and ecology. Over the past decade, my research has focused on developing innovative tools for quantitatively analyzing ecosystems through the lens of acoustics. This work involves proactive engagement with ecologists, sociologists and local communities to ensure the conservation of biodiversity while accommodating the developmental needs of socio-ecological systems.
 
 # Research
 ## Focus areas
 * **Passive acoustic monitoring for biodiversity conservation** Leveraging passive acoustic monitoring techniques to assess and preserve biodiversity, capturing the natural soundscapes of ecosystems to better understand species presence, behavior, and overall ecosystem status.
 
-* **Machine learning for field audio analysis**: Develop analytical machine learning pipelines to process extensive field audio recordings, extracting meaningful data on species presence, diversity, and habitat changes. These tools streamline data processing, enabling efficient analysis of large datasets and providing critical insights into biodiversity patterns and trends.
+* **Machine learning for field audio analysis**: Develop analytical machine learning pipelines to process extensive field audio recordings. These tools streamline data processing, enabling efficient analysis of large datasets and providing critical insights into biodiversity patterns and trends.
 
 * **Implementation of community-based monitoring programs**: Collaborating with local communities to design monitoring programs that engage and empower local communities in the management and governance of their natural resources. These programs build local capacity, integrate traditional ecological knowledge, and promote sustainable conservation practices.
 
